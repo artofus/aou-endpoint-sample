@@ -49,7 +49,7 @@ async def observations(request):
     # Send an SSE to a subscriber
     app = request.app
     for queue in app['channels']:
-        payload = json.dumps(dict(event))
+        payload = json.dumps(dict(observation))
         await queue.put(payload)
 
     # return a simple responce
