@@ -1,0 +1,1 @@
+{"sensors":[{"sensor":"00000000-0000-0000-0000-000000000000","observs":[{"streamDateTime":"2018-11-12T09:52:30.953Z","obsDateTime":"2018-11-12T09:52:28.470Z","objType":"person","figure":"upper","objId":1,"loc":[{"x":444,"y":85,"w":639,"h":639,"locType":"coord"}],"serv":"id","observ":"pic","pic":"44ceecd1-22e6-4ffc-b192-dbc3b5162901","picQual":1}]}]}
