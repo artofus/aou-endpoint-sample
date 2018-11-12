@@ -1,0 +1,1 @@
+{"sensors":[{"sensor":"00000000-0000-0000-0000-000000000000","observs":[{"streamDateTime":"2018-11-12T09:52:41.021Z","obsDateTime":"2018-11-12T09:52:28.470Z","objId":4,"serv":"presence","observ":"leave"}]}]}
